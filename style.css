@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-snap-type: y mandatory;
+}
+
+img {
+  width: 100vw;
+  scroll-snap-align: start;
+}
